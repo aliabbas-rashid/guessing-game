@@ -12,7 +12,6 @@ A daily guessing game built by Ali Abbas Rashid and Sadiq Al-Sandouk where playe
 - [Tech / Implementation ideas](#tech--implementation-ideas)
 - [Contributing](#contributing)
 - [Roadmap & ideas](#roadmap--ideas)
-- [License](#license)
 
 ## Demo
 
